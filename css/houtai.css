@@ -1,0 +1,61 @@
+/*--------------------------------------------------------后台管理首页-----------------------------------------------*/
+nav{
+    background: #f8f8f8;
+}
+nav a{
+    color: #777;
+}
+nav a span{
+    margin-right: 6px;
+}
+nav .navbar-collapse ul .selected{
+    background-color: #e7e7e7;
+}
+.main .retie ul li a span{
+    margin-right: 6px;
+}
+.main .retie ul li a .right{
+    float: right;
+}
+.main .liuyan{
+    padding-left: 20px;
+}
+.main .liuyan .alert-info{
+    color: #333;
+    background: #f5f5f5;
+    border-color: #e3e3e3;
+}
+.main .liuyan .alert-info p{
+    font-size: 20px;
+}
+.main .panel-body form{
+    margin: 0 0 14px 10px;
+}
+form textarea{
+    border-radius: 4px;
+}
+.main .panel-body .contact{
+    margin: 0 0 0 10px;
+}
+.main .panel-body .contact .panel-body ul li a{
+    color: #333;
+}
+.main .panel-body .contact .panel-body ul li a .glyphicon-phone-alt{
+    margin: 0 6px;
+}
+footer div{
+    margin: 40px 0 30px 0;
+}
+/*--------------------------------------------------------用户列表页-----------------------------------------------*/
+.main_user .page-header{
+    margin-top: 0;
+}
+.main_user .search{
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}
+
+.main_user .alert-info{
+    margin-right: 20px;
+}
